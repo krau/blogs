@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Allow: /posts/
+Allow: /about/
+Disallow: /js/
+Disallow: /css/
+Allow: /contact/
+Disallow: /fonts/
+Allow: /friends/
+Disallow: /libs/
+Disallow: /medias/
+Allow: /page/
+Allow: /tags/
+Allow: /categories/
